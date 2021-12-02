@@ -1,2 +1,6 @@
 *.dat
 results/
+results/!plots/
+!a.dat
+
+**/*.dat
